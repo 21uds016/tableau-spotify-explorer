@@ -1,0 +1,10 @@
+# Ignore temporary and cache files
+*.twb~
+*.tmp
+*.bak
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
+.env
+.ipynb_checkpoints/
